@@ -123,6 +123,6 @@ Yz0iaHR0cDovL2QudG9wNHRvcC5uZXQvcF8yNDlhNGlqMS5wbmciPjwvY2VudGVyPgo8L3ByZT4K
 CjxkaXYgYWxpZ249ImNlbnRlciI+' | base64 -d
 
 rm -rf /tmp/FoxAuto
-wget https://google.com//FoxAuto-N
+wget https://raw.githubusercontent.com/v3n0miq/v3n0m/main/tools/v3n/FoxAuto-N
 chmod +x FoxAuto-N
 ./FoxAuto-N 0
