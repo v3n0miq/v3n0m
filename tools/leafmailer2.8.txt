@@ -4440,7 +4440,6 @@ print '<div class="container col-lg-6">
                 <li>your code is  <b>[-randommd5-]</b> = your code is <b>e10adc3949ba59abbe56e057f20f883e</b></li>
             </ul>
 			<br>
-			 <h6><b><font color="green">Uploaded</font></b> by <b><a target=\'_blank\' href="https://t.me/v3n0mhack">'.'v3n0mTools'.'</a></b>  </h6>
 			 <h6><font color="green">Leaf PHPMailer</font> by <b><a target=\'_blank\' href="https://'.$leaf['website'].'">'.$leaf['website'].'</a></b></h6>
         </div>
     </div>';  
