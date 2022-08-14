@@ -5,9 +5,5 @@
 ![](https://user-images.githubusercontent.com/88527426/160154330-55d871a7-904f-4b34-91d3-895d519b2e2a.jpeg)
 
 
-![](https://user-images.githubusercontent.com/88527426/184546198-69230bc2-7cda-427c-aebf-a9c4f6f77559.jpeg)
-
-![](https://user-images.githubusercontent.com/88527426/184548500-e78e317a-aa83-4ffc-ac81-c421c0a9f830.jpeg)
-
 
 
